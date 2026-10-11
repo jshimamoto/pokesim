@@ -13,4 +13,5 @@ Each turn creates a new instance of an `ITurn`. This class will take all of the 
 - Future extensions
   - Weather effects
   - Priority moves
-  - 
+  - Hazards
+  - Switching out
